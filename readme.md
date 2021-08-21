@@ -2,7 +2,7 @@
 
 ---
 
-![<3](http://ForTheBadge.com/images/badges/built-with-love.svg)
+[![made with love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/Syrth)
 
 This clone was built for the purpose of studying.
 
